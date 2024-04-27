@@ -58,10 +58,3 @@ body:
       description: Provide any screenshots and/or videos demonstrating the issue being experienced.
     validations:
       required: false
-  - type: textarea
-    id: playerdata
-    attributes:
-      label: Player Data
-      description: Write '/info' whilst in-game and provide a screenshot of the information you are prompted.
-    validations:
-      required: false         
